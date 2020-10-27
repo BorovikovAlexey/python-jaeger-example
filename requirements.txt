@@ -1,0 +1,4 @@
+aiohttp
+jaeger-client
+asyncio
+pika
